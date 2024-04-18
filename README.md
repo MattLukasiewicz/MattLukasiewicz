@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**MattLukasiewicz/MattLukasiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Mateusz
+#### I am a Student of University of technology Wroclaw. PWr ITE 2/7
+![I am a Student of University of technology Wroclaw. PWr ITE 2/7](https://MattLukasiewicz.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm a begginer programer. Passionate about new technologies. Intrested in sport, films, books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Basic knowlage of C/C++/Java/Python
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
