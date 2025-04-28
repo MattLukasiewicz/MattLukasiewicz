@@ -2,7 +2,7 @@
 I am a Student of University of technology Wroclaw. PWr ITE 4/7
 Begginer programer. Passionate about new technologies. Intrested in art, sport, films, books.
 
-Skills:  C/C++/Java/Python/Assembly
+Skills:  C/C++/Java/Python/Assembly/SQL
 
 
 
